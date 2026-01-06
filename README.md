@@ -1,51 +1,25 @@
-# Welcome to your Expo app 👋
+## Construire un écran d’accueil défilant avec ScrollView
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### Objectif
+Ce lab montre comment transformer un écran d’accueil fixe en écran défilant avec le composant ScrollView de React Native.
+L’écran contient un texte en grande taille qui dépasse la hauteur de l’écran : il faut donc le rendre scrollable et rendre la barre de défilement blanche pour rester cohérent avec le thème visuel de l’application.
 
-## Get started
+### Prérequis
+Projet React Native déjà créé (Expo ou React Native CLI).
+Un composant WelcomeScreen déjà fonctionnel, qui affiche un long texte avec une grande taille de police.
+Notions de base sur :
+les composants fonctionnels (function WelcomeScreen() { ... })
+les composants de base View, Text
+import/export de modules.
+Dans le projet, l’écran d’accueil est affiché depuis App.js via le composant WelcomeScreen.
 
-1. Install dependencies
+### Création du projet 
+<img width="959" height="499" alt="Lab3 1" src="https://github.com/user-attachments/assets/14d6cd2a-a4b5-4cba-bdba-63c234c14383" />
 
-   ```bash
-   npm install
-   ```
+### Exécution 
+<img width="959" height="502" alt="Lab3 2" src="https://github.com/user-attachments/assets/3693adce-0841-4528-8b30-2d5f4f5489b7" />
+<img width="959" height="476" alt="Lab3 ex2" src="https://github.com/user-attachments/assets/6725b829-b65f-4af9-bc4f-238760a92569" />
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-"# Ecran_avec_ScrollView" 
+### Tester le comportement sur émulateur ou appareil
+![Lab3](https://github.com/user-attachments/assets/eadef558-46f1-4220-be03-42aa1810e35c)
+![Lab3 demo](https://github.com/user-attachments/assets/367016cb-a515-427f-a41a-a829da648310)
