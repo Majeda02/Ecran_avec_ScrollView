@@ -25,4 +25,10 @@ Dans le projet, l’écran d’accueil est affiché depuis App.js via le composa
 
 https://github.com/user-attachments/assets/c681d54c-1cc1-4330-ab56-4d96484d013c
 
+### Auteur
+* Nom : BEN-LAGHFIRI Majeda
+* Cours: React Native
+* Date : Janvier 2026
+* Encadré par : Pr.Mohamed LACHGAR
+
 
