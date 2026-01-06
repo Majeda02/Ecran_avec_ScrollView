@@ -22,4 +22,7 @@ Dans le projet, l’écran d’accueil est affiché depuis App.js via le composa
 
 ### Tester le comportement sur émulateur ou appareil
 ![Lab3](https://github.com/user-attachments/assets/eadef558-46f1-4220-be03-42aa1810e35c)
-![Lab3 demo](https://github.com/user-attachments/assets/367016cb-a515-427f-a41a-a829da648310)
+
+https://github.com/user-attachments/assets/c681d54c-1cc1-4330-ab56-4d96484d013c
+
+
